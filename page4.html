@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <head>
+        <title>Cloud Technology</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <style>
+            /* Remove the navbar's default margin-bottom and rounded borders */
+            .navbar {
+                margin-bottom: 0;
+                border-radius: 0;
+            }
+
+            /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+            .row.content {height: 450px}
+
+            /* Set gray background color and 100% height */
+            .sidenav {
+                padding-top: 20px;
+                background-color: #f1f1f1;
+                height: 100%;
+            }
+
+            /* Set black background color, white text and some padding */
+            footer {
+                background-color: #555;
+                color: white;
+                padding: 15px;
+            }
+
+            /* On small screens, set height to 'auto' for sidenav and grid */
+            @media screen and (max-width: 767px) {
+                .sidenav {
+                    height: auto;
+                    padding: 15px;
+                }
+                .row.content {height:auto;}
+            }
+        </style>
+    </head>
+<body>
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="Home.html">Cloud Technology</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="info.html">Virtualization</a></li>
+                <li><a href="page2.html">Containerization</a></li>
+                <li><a href="page3.html">Data Centers</a></li>
+                <li><a href="page4.html">Kubernetes VS. Docker </a></li>
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container-fluid text-center">
+    <div class="row content">
+        <div class="col-sm-2 sidenav">
+            <p><a href="info.html">Virtualization</a></p>
+            <p><a href="page2.html">Containerization</a></p>
+            <p><a href="page3.html">Data Centers</a></p>
+            <p><a href="page4.html">Kubernetes VS. Docker</a></p>
+            <p><a href="Home.html">Contact</a></p>
+        </div>
+        <div class="col-sm-8 text-left">
+            <h1>Kubernetes VS. Docker</h1>
+            <hr>
+            <h3>What is Kubernetes?</h3>
+            <p> Kubernetes, an open-source project made available by Google in 2014. Kubernetes is an orchestrator
+                of container platforms, such as Docker. Kubernetes allows users to define the desired state of their
+                container architecture deployment on various substrates. Following user input, Kubernetes can
+                deploy and manage multi-container applications across multiple hosts, taking action if needed to
+                maintain the desired state. This level of automation has revolutionized the container space as it
+                created the framework for features such as scalability, monitoring and cross-platform deployments.</p>
+            <hr>
+            <h3>What is Docker?</h3>
+            <p>Docker was launched in 2013 by Docker, Inc. as an open source containerization platform. It promised
+                an easy way to build and deploy containers on the cloud or on-premises and is compatible with Linux
+                and Windows. Although Docker did not introduce a new concept, its ‘new way to deploy software’ and
+                ‘faster time-to-market’ messaging appealed to users so much that Docker soon became shorthand for
+                containers and the default container format.</p>
+            <p>
+                Docker streamlines the creation of containers with tools such as the Docker file and docker-compose.
+                It also helps developers move workloads from their local environment, to test up to production by
+                removing the cross-environment inconsistencies and dependencies. This results in faster delivery of the
+                software and an increase in quality.
+            </p>
+            <hr>
+            <h3>Differences between Docker Swarm and Kubernetes?</h3>
+            <ul>
+                <li>Docker Swarm is orchestration technology similar to Kubernetes. Docker Swarm is naturally tightly
+                integrated within the Docker ecosystem and focuses on the clustering of Docker containers.</li>
+
+                <li>A major difference between Docker and Kubernetes is that Docker runs on a single node,
+                whereas Kubernetes is designed to run across a cluster.</li>
+
+                <li>Another difference between Kubernetes and Docker is that Docker can be used without Kubernetes,
+                    whereas Kubernetes needs a container runtime in order to orchestrate.</li>
+
+                <li>
+                    Since its initial release in 2015, Kubernetes has been widely adopted, and at this point, has
+                    become the de facto standard for container management and orchestration. Kubernetes provides an
+                    infrastructure-level framework for orchestrating containers at scale, and for managing user
+                    interaction with them.
+                </li>
+
+                <li>
+                    In much the same way, Docker has become the standard for container development and deployment.
+                    Docker provides a platform for developing, deploying, and running containers at a much more basic,
+                    nuts-and-bolts level. It is the ground on which the Kubernetes framework sits.
+                </li>
+
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+<footer class="container-fluid text-center">
+    <p>Created by Unnati P. & Ahmed A.</p>
+</footer>
+
+</body>
+</html>

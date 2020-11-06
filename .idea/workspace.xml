@@ -16,20 +16,42 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34d40a4c-7658-4f53-9bc8-e1de1379749f" name="Default Changelist" comment="Updating pages" />
+    <list default="true" id="34d40a4c-7658-4f53-9bc8-e1de1379749f" name="Default Changelist" comment="Updating pages">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_5_2020_8_12_PM_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_5_2020_8_12_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud-Technology-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -61,15 +83,16 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="About.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cloud-Technology/About.html" useBuiltInWebServerPort="true">
+    <configuration name="info.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:64474/Cloud-Technology/info.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.About.html" />
+        <item itemvalue="JavaScript Debug.info.html" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +104,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604619080635</updated>
-      <workItem from="1604619082384" duration="4469000" />
+      <workItem from="1604619082384" duration="6195000" />
+      <workItem from="1604625301897" duration="180000" />
+      <workItem from="1604625496028" duration="3079000" />
+      <workItem from="1604677886512" duration="1525000" />
+      <workItem from="1604679819459" duration="3092000" />
     </task>
     <task id="LOCAL-00001" summary="Updating pages">
       <created>1604623554894</created>
@@ -90,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604623554894</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updating pages">
+      <created>1604623598109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604623598109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,23 +140,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating pages" />
     <option name="LAST_COMMIT_MESSAGE" value="Updating pages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="447" y="194" key="Vcs.Push.Dialog.v2" timestamp="1604623378770">
+    <state x="615" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604625915573">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="447" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1604623378770" />
+    <state x="615" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1604625915573" />
+    <state x="712" y="359" key="Github.ShareDialog" timestamp="1604624903995">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="712" y="359" key="Github.ShareDialog/0.0.1707.920@0.0.1707.920" timestamp="1604624903995" />
+    <state x="447" y="194" key="Vcs.Push.Dialog.v2" timestamp="1604678980798">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="447" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1604678980798" />
     <state x="673" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604623473891">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="673" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920@0.0.1707.920" timestamp="1604623473891" />
-    <state x="685" y="252" key="svn.repositoryBrowser" timestamp="1604620821471">
+    <state x="685" y="252" key="svn.repositoryBrowser" timestamp="1604624031601">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="685" y="252" key="svn.repositoryBrowser/0.0.1707.920@0.0.1707.920" timestamp="1604620821471" />
+    <state x="685" y="252" key="svn.repositoryBrowser/0.0.1707.920@0.0.1707.920" timestamp="1604624031601" />
   </component>
 </project>
