@@ -25,11 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34d40a4c-7658-4f53-9bc8-e1de1379749f" name="Default Changelist" comment="Added Content and more information">
-      <change afterPath="$PROJECT_DIR$/Images/virtualization.jpg" afterDir="false" />
+    <list default="true" id="34d40a4c-7658-4f53-9bc8-e1de1379749f" name="Default Changelist" comment="Task: adding images">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_5_2020_8_12_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_5_2020_8_12_PM__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cloud-Technology-main.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +72,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -108,7 +115,9 @@
       <workItem from="1604625301897" duration="180000" />
       <workItem from="1604625496028" duration="3079000" />
       <workItem from="1604677886512" duration="1525000" />
-      <workItem from="1604679819459" duration="4240000" />
+      <workItem from="1604679819459" duration="6619000" />
+      <workItem from="1604719409136" duration="737000" />
+      <workItem from="1605288321085" duration="3734000" />
     </task>
     <task id="LOCAL-00001" summary="Updating pages">
       <created>1604623554894</created>
@@ -131,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604683060289</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task: adding images">
+      <created>1604684224890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604684224890</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task: adding images">
+      <created>1604684344292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604684344292</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,25 +175,42 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating pages" />
     <MESSAGE value="Added Content and more information" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Content and more information" />
+    <MESSAGE value="Task: adding images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: adding images" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="826" y="115" key="#Deployment" timestamp="1605292813921">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="826" y="115" key="#Deployment/0.0.1707.920@0.0.1707.920" timestamp="1605292813921" />
     <state x="615" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604625915573">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="615" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1604625915573" />
+    <state x="852" y="120" width="760" height="672" key="DirDiffDialog" timestamp="1605292814264">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="852" y="120" width="760" height="672" key="DirDiffDialog/0.0.1707.920@0.0.1707.920" timestamp="1605292814264" />
+    <state x="635" y="203" key="FileChooserDialogImpl" timestamp="1604719661051">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="635" y="203" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1604719661051" />
     <state x="712" y="359" key="Github.ShareDialog" timestamp="1604624903995">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="712" y="359" key="Github.ShareDialog/0.0.1707.920@0.0.1707.920" timestamp="1604624903995" />
-    <state x="447" y="194" key="Vcs.Push.Dialog.v2" timestamp="1604683164970">
+    <state x="447" y="194" key="Vcs.Push.Dialog.v2" timestamp="1605288388837">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="447" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1604683164970" />
+    <state x="447" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1605288388837" />
     <state x="673" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604683006466">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="673" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920@0.0.1707.920" timestamp="1604683006466" />
+    <state x="1104" y="348" key="publish.login" timestamp="1605291994537">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="1104" y="348" key="publish.login/0.0.1707.920@0.0.1707.920" timestamp="1605291994537" />
     <state x="685" y="252" key="svn.repositoryBrowser" timestamp="1604624031601">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
